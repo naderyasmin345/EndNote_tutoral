@@ -1,0 +1,413 @@
+1
+00:00:00,041 --> 00:00:03,041
+how to use EndNote in seven minutes
+
+2
+00:00:04,009 --> 00:00:09,055
+this video will give you a very fast
+start on using EndNote it will show you
+
+3
+00:00:09,469 --> 00:00:15,410
+one two ways to import a reference from
+an online database using PubMed as an
+
+4
+00:00:15,041 --> 00:00:15,140
+example
+
+5
+00:00:16,004 --> 00:00:20,203
+- how to create a custom group and add
+references to it
+
+6
+00:00:21,026 --> 00:00:27,074
+three how to use find full text to try
+to download PDFs for references for how
+
+7
+00:00:27,074 --> 00:00:30,122
+to insert a reference in a word document
+five
+
+8
+00:00:31,022 --> 00:00:36,095
+how to format the bibliography using the
+APA style as an example 6
+
+9
+00:00:36,095 --> 00:00:39,120
+how to add page numbers to a citation
+
+10
+00:00:40,002 --> 00:00:45,084
+the first method of importing is online
+search in EndNote click the online
+
+11
+00:00:46,002 --> 00:00:49,086
+search mode button it will be the second
+mode button
+
+12
+00:00:50,061 --> 00:00:53,061
+select the online database you want to
+search
+
+13
+00:00:54,048 --> 00:00:57,141
+there are thousands more available these
+are just the popular ones
+
+14
+00:00:59,082 --> 00:01:02,082
+filled your search
+
+15
+00:01:07,048 --> 00:01:09,073
+click the search button
+
+16
+00:01:09,073 --> 00:01:10,144
+the search
+
+17
+00:01:11,044 --> 00:01:14,067
+click the ok
+
+18
+00:01:14,067 --> 00:01:15,074
+select the reference
+
+19
+00:01:15,074 --> 00:01:18,074
+says you want in the list
+
+20
+00:01:19,006 --> 00:01:22,006
+click the copy to local library button
+
+21
+00:01:23,069 --> 00:01:27,071
+click the local library mode button to
+see the contents of your EndNote library
+
+22
+00:01:27,071 --> 00:01:30,116
+it will be the first mode button
+
+23
+00:01:32,002 --> 00:01:37,101
+the references you just copied are shown
+in the temporary copied references group
+
+24
+00:01:38,001 --> 00:01:41,049
+to create a permanent group for your
+references
+
+25
+00:01:41,058 --> 00:01:46,457
+select create group from the group's
+menu enter the name of your group and
+
+26
+00:01:46,979 --> 00:01:49,870
+press enter
+
+27
+00:01:49,087 --> 00:01:53,119
+select the references to add to the new
+group and drag them into the group
+
+28
+00:01:56,036 --> 00:01:59,123
+another method of importing references
+is direct export
+
+29
+00:02:01,018 --> 00:02:05,089
+i am going to import some references
+from PubMed is an example but this
+
+30
+00:02:05,089 --> 00:02:10,132
+method can be used with many other
+online databases i am using Firefox for
+
+31
+00:02:11,032 --> 00:02:15,088
+this example because it supports direct
+export on both the windows and macintosh
+
+32
+00:02:15,088 --> 00:02:19,132
+platforms direct export will also work
+with internet explorer
+
+33
+00:02:21,015 --> 00:02:24,042
+perform your search of the online
+database in your browser
+
+34
+00:02:25,047 --> 00:02:28,047
+select the references you want to import
+
+35
+00:02:28,047 --> 00:02:31,086
+for pubmed mark the references to select
+them
+
+36
+00:02:33,092 --> 00:02:36,116
+click the send to link
+
+37
+00:02:37,016 --> 00:02:38,017
+then so
+
+38
+00:02:38,017 --> 00:02:40,056
+like citation manager
+
+39
+00:02:40,056 --> 00:02:41,059
+different data
+
+40
+00:02:41,086 --> 00:02:44,092
+cases will have different ways of
+selecting references and preparing them
+
+41
+00:02:45,046 --> 00:02:49,108
+for export this link may be called
+different things by different data
+
+42
+00:02:50,008 --> 00:02:51,070
+providers
+
+43
+00:02:51,007 --> 00:02:57,070
+it may be a large button or possibly a
+hyperlink in very small text it may be
+
+44
+00:02:58,033 --> 00:03:03,034
+called different names such as direct
+export or export to citation manager
+
+45
+00:03:04,239 --> 00:03:08,244
+look for something that talks about
+saving exporting or importing references
+
+46
+00:03:08,739 --> 00:03:11,811
+if offered a choice of formats
+
+47
+00:03:12,459 --> 00:03:19,030
+select the one that mentions endnote or
+r is for pubmed selecting citation
+
+48
+00:03:19,003 --> 00:03:22,039
+manager will save it in the correct
+format for direct export
+
+49
+00:03:23,041 --> 00:03:25,137
+click create file
+
+50
+00:03:26,037 --> 00:03:30,120
+Firefox will ask if you want to open the
+file and what program you want to open
+
+51
+00:03:31,002 --> 00:03:33,003
+it with
+
+52
+00:03:33,021 --> 00:03:35,045
+select EndNote
+
+53
+00:03:35,045 --> 00:03:37,088
+click the ok button
+
+54
+00:03:37,088 --> 00:03:39,154
+click the ok button
+
+55
+00:03:40,054 --> 00:03:44,973
+if the database setup for direct export
+the references will import right into
+
+56
+00:03:45,459 --> 00:03:46,800
+EndNote
+
+57
+00:03:46,008 --> 00:03:50,052
+the new references are shown in the
+imported references temporary group
+
+58
+00:03:52,029 --> 00:03:55,101
+drag the new references to the permanent
+group they should belong to
+
+59
+00:03:57,075 --> 00:04:00,123
+to have n no try to find the pdfs for
+references
+
+60
+00:04:01,074 --> 00:04:03,121
+select the references
+
+61
+00:04:04,021 --> 00:04:07,021
+then click the find full text button
+
+62
+00:04:08,015 --> 00:04:11,037
+click the ok button
+
+63
+00:04:11,037 --> 00:04:16,044
+if any note is able to find the pdfs you
+will see a paperclip icon appear by the
+
+64
+00:04:16,044 --> 00:04:18,063
+references
+
+65
+00:04:18,063 --> 00:04:21,069
+after a reference is in the EndNote
+library
+
+66
+00:04:21,069 --> 00:04:25,077
+it can be added to a word document in
+Word
+
+67
+00:04:25,077 --> 00:04:30,084
+click where you want to put an end note
+citation then click the go to EndNote
+
+68
+00:04:30,084 --> 00:04:31,176
+button
+
+69
+00:04:32,076 --> 00:04:35,091
+select the reference or references you
+want to insert
+
+70
+00:04:37,018 --> 00:04:40,018
+click the insert citation button
+
+71
+00:04:40,093 --> 00:04:44,052
+the reference is inserted into your
+paper and instantly formatted
+
+72
+00:04:46,035 --> 00:04:51,051
+to change the style select the tiny
+arrow in the bottom right corner of the
+
+73
+00:04:51,051 --> 00:04:53,087
+bibliography group
+
+74
+00:04:53,087 --> 00:04:56,087
+select the style from the list of
+favorites
+
+75
+00:04:58,008 --> 00:05:02,627
+if your favorite style is not showing
+you can use the Browse button to see
+
+76
+00:05:02,699 --> 00:05:04,780
+more styles
+
+77
+00:05:04,078 --> 00:05:07,078
+click the ok button
+
+78
+00:05:08,529 --> 00:05:10,000
+to add page
+
+79
+00:05:10,000 --> 00:05:13,015
+verse 2 a citation click on the citation
+
+80
+00:05:14,049 --> 00:05:17,097
+then click the edit and manage citations
+button
+
+81
+00:05:19,019 --> 00:05:22,019
+add page numbers to the pages filled
+
+82
+00:05:23,008 --> 00:05:26,008
+then click the ok button
+
+83
+00:05:26,072 --> 00:05:29,093
+you now know two ways to import
+references
+
+84
+00:05:29,093 --> 00:05:33,161
+one way to create a custom group one way
+to put a reference in a word document
+
+85
+00:05:34,061 --> 00:05:37,088
+and one way to add page numbers
+
+86
+00:05:37,088 --> 00:05:40,088
+endnote can do a lot more than this
+
+87
+00:05:40,088 --> 00:05:44,090
+if you would like to learn more we have
+video tutorials and full class
+
+88
+00:05:45,008 --> 00:05:52,064
+recordings available on our youtube
+channel at www.youtube.com / and no
+
+89
+00:05:52,064 --> 00:05:53,066
+training
+
+90
+00:05:53,084 --> 00:05:58,088
+you can also register for free online
+classes on our training calendar at
+
+91
+00:05:58,088 --> 00:06:01,169
+EndNote . com / training / calendar
+
